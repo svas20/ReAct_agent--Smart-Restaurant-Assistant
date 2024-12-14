@@ -1,0 +1,10 @@
+{
+    "node_version": "20",
+    "dockerfile_lines": [],
+    "dependencies": ["."],
+    "graphs": {
+      "streaming_messages": "./src/app/api/graph.ts:graph"
+    },
+    "env": ".env.local"
+  }
+  
